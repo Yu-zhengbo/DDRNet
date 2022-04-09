@@ -18,3 +18,10 @@
 
 
 6、有问题可以联系2690486436@qq.com
+
+
+预训练权重的百度链接：链接：https://pan.baidu.com/s/1VI0A-rOIlq9T46LO4t5CVg 
+提取码：471j
+
+
+数据的下载链接：https://www.iarai.ac.at/landslide4sense/challenge/
