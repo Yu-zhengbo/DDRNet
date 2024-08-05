@@ -1,5 +1,5 @@
 # DDRNet
-为了应付滑坡的语义分割比赛，整理的一个DDR模型
+针对滑坡的语义分割比赛，整理的一个DDR模型
 
 
 1、构建了DDRnet和transformer的分割模型
